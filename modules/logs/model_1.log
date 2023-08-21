@@ -1,0 +1,46 @@
+2023-08-21 04:50:39,795 - INFO - [Model_1_1] start
+2023-08-21 04:50:39,806 - INFO - [Model_1_1] input_video_path: ../input_videos/video_1.mp4
+2023-08-21 04:50:39,807 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_1.mp4
+2023-08-21 04:50:41,279 - INFO - [Model_1_1] request_id: [1, 14]
+2023-08-21 04:50:46,283 - INFO - [Model_1_1] request_id: [1, 31]
+2023-08-21 04:50:51,455 - INFO - [Model_1_1] request_id: [1, 77]
+2023-08-21 04:50:56,766 - INFO - [Model_1_1] request_id: [1, 95]
+2023-08-21 04:51:01,856 - INFO - [Model_1_1] request_id: [1, 111]
+2023-08-21 04:51:07,056 - INFO - [Model_1_1] request_id: [1, 125]
+2023-08-21 04:51:12,189 - INFO - [Model_1_1] request_id: [1, 140]
+2023-08-21 04:51:18,077 - INFO - [Model_1_1] input_video_path: ../input_videos/video_2.mp4
+2023-08-21 04:51:18,078 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_2.mp4
+2023-08-21 04:51:18,448 - INFO - [Model_1_1] request_id: [2, 1]
+2023-08-21 04:51:23,464 - INFO - [Model_1_1] request_id: [2, 19]
+2023-08-21 04:51:28,578 - INFO - [Model_1_1] request_id: [2, 37]
+2023-08-21 04:51:33,641 - INFO - [Model_1_1] request_id: [2, 62]
+2023-08-21 04:51:38,684 - INFO - [Model_1_1] request_id: [2, 143]
+2023-08-21 04:51:43,853 - INFO - [Model_1_1] request_id: [2, 213]
+2023-08-21 04:51:46,289 - INFO - [Model_1_1] input_video_path: ../input_videos/video_3.mp4
+2023-08-21 04:51:46,289 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_3.mp4
+2023-08-21 04:51:48,877 - INFO - [Model_1_1] request_id: [3, 25]
+2023-08-21 04:51:53,920 - INFO - [Model_1_1] request_id: [3, 63]
+2023-08-21 04:51:58,561 - INFO - [Model_1_1] input_video_path: ../input_videos/video_4.mp4
+2023-08-21 04:51:58,562 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_4.mp4
+2023-08-21 04:51:58,962 - INFO - [Model_1_1] request_id: [4, 5]
+2023-08-21 04:52:03,978 - INFO - [Model_1_1] request_id: [4, 59]
+2023-08-21 04:52:09,009 - INFO - [Model_1_1] request_id: [4, 113]
+2023-08-21 04:52:14,096 - INFO - [Model_1_1] request_id: [4, 169]
+2023-08-21 04:52:19,162 - INFO - [Model_1_1] request_id: [4, 228]
+2023-08-21 04:52:21,792 - INFO - [Model_1_1] input_video_path: ../input_videos/video_5.mp4
+2023-08-21 04:52:21,793 - INFO - [Model_1_1] output_video_path: ../output_videos/processed_video_5.mp4
+2023-08-21 04:52:24,326 - INFO - [Model_1_1] request_id: [5, 13]
+2023-08-21 04:52:29,542 - INFO - [Model_1_1] request_id: [5, 37]
+2023-08-21 04:52:34,626 - INFO - [Model_1_1] request_id: [5, 59]
+2023-08-21 04:52:39,689 - INFO - [Model_1_1] request_id: [5, 82]
+2023-08-21 04:52:44,871 - INFO - [Model_1_1] request_id: [5, 107]
+2023-08-21 04:52:49,881 - INFO - [Model_1_1] request_id: [5, 127]
+2023-08-21 04:52:55,055 - INFO - [Model_1_1] request_id: [5, 150]
+2023-08-21 04:53:00,175 - INFO - [Model_1_1] request_id: [5, 172]
+2023-08-21 04:53:05,266 - INFO - [Model_1_1] request_id: [5, 195]
+2023-08-21 04:53:10,407 - INFO - [Model_1_1] request_id: [5, 217]
+2023-08-21 04:53:15,495 - INFO - [Model_1_1] request_id: [5, 239]
+2023-08-21 04:53:20,560 - INFO - [Model_1_1] request_id: [5, 262]
+2023-08-21 04:53:25,678 - INFO - [Model_1_1] request_id: [5, 285]
+2023-08-21 04:54:19,337 - INFO - [Model_1_1] end
+2023-08-21 04:54:19,338 - INFO - [Model_1_1] self.end_signal.value: 0

@@ -1,0 +1,59 @@
+2023-08-21 04:50:36,416 - INFO - [Model_5_1] start
+2023-08-21 04:50:41,425 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:50:46,433 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:50:51,441 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:50:56,447 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:01,454 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:06,461 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:11,467 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:16,473 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:21,479 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:26,485 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:28,488 - INFO - [Model_5_1] frame_filename: output_frames_video_1
+2023-08-21 04:51:28,488 - INFO - [Model_5_1] input_video_path: ../input_videos/video_1.mp4
+2023-08-21 04:51:28,488 - INFO - [Model_5_1] output_video_path: ../output_videos/processed_video_1.mp4
+2023-08-21 04:51:35,691 - INFO - [Model_5_1] ../input_videos/video_1.mp4 processed successfully
+2023-08-21 04:51:36,697 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:41,704 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:46,711 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:51,717 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:51:56,724 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:01,730 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:06,737 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:11,744 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:16,750 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:21,757 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:26,764 - INFO - [Model_5_1] frame_files_to_be_processed: [3, 3]
+2023-08-21 04:52:26,764 - INFO - [Model_5_1] frame_filename: output_frames_video_3
+2023-08-21 04:52:26,764 - INFO - [Model_5_1] input_video_path: ../input_videos/video_3.mp4
+2023-08-21 04:52:26,765 - INFO - [Model_5_1] output_video_path: ../output_videos/processed_video_3.mp4
+2023-08-21 04:52:30,774 - INFO - [Model_5_1] ../input_videos/video_3.mp4 processed successfully
+2023-08-21 04:52:31,792 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:36,798 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:41,805 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:46,812 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:51,818 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:52:56,825 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:01,832 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:06,838 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:11,845 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:16,854 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:21,861 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:26,868 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:31,874 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:36,881 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:41,888 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:46,894 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:51,901 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:53:56,908 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:54:01,914 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:54:06,921 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:54:11,928 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:54:16,936 - INFO - [Model_5_1] frame_files_to_be_processed: []
+2023-08-21 04:54:19,940 - INFO - [Model_5_1] frame_filename: output_frames_video_5
+2023-08-21 04:54:19,941 - INFO - [Model_5_1] input_video_path: ../input_videos/video_5.mp4
+2023-08-21 04:54:19,941 - INFO - [Model_5_1] output_video_path: ../output_videos/processed_video_5.mp4
+2023-08-21 04:54:24,757 - INFO - [Model_5_1] ../input_videos/video_5.mp4 processed successfully
+2023-08-21 04:54:25,762 - INFO - [Model_5_1] frame_files_to_be_processed: [-1]
+2023-08-21 04:54:25,763 - INFO - [Model_5_1] end
+2023-08-21 04:54:25,763 - INFO - [Model_5_1] self.end_signal.value: 0
