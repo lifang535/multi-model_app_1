@@ -6,6 +6,8 @@ https://github.com/lifang535/multi-model_application/tree/main
 
 ## 更新内容
 
+`Model_1` 对视频帧处理时检测到几个目标就向 `Model_2`、`Model_3` 发几个信息
+
 `Model_2` 模型换为 `'google/vit-base-patch16-224'` 进行车辆的图像分类
 
 `Model_3` 模型换为 `'nateraw/vit-age-classifier'` 进行行人年龄检测
@@ -18,4 +20,4 @@ https://github.com/lifang535/multi-model_application/tree/main
 
 `latency` 监测
 
-
+![Image]()
