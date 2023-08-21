@@ -20,4 +20,4 @@ https://github.com/lifang535/multi-model_application/tree/main
 
 `latency` 监测
 
-![Image]()
+![Image](https://github.com/lifang535/multi-model_app_1/blob/main/multi-model_structure.png)
