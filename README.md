@@ -12,7 +12,7 @@ https://github.com/lifang535/multi-model_application/tree/main
 
 `Model_3` 模型换为 `'nateraw/vit-age-classifier'` 进行行人年龄检测
 
-为请求设置结构体打包并合理编号，传输数据由 `path` 改为 `image_array`
+为请求设置结构体打包并合理编号，传输数据由 `path` 改为 `image_array`，并统一转换方式
 
 `Model_4` 打包单个视频帧的处理信息并同时处理
 
